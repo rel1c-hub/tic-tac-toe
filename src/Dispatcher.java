@@ -78,6 +78,7 @@ public class Dispatcher {
             return 0;
         }else{
             System.out.println("Компютер ходить першим.");
+            System.out.println("Компютер ходить першим.");
             return 1;
         }
     }
